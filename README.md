@@ -45,7 +45,7 @@ System to separate recyclable and non-recyclable paper using sensor-based detect
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](in/samuel-joshua-j-5491a72a9)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](linkedin.com/in/samuel-joshua-j-5491a72a9)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/Samdcruzzz)
 
 ---
