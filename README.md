@@ -19,14 +19,14 @@
 ### 💡 Smart Lighting System
 ESP32-based lighting system using LDR and PIR sensors. Automatically adjusts brightness based on ambient light and motion detection.
 
-**Tech:** ESP32, IoT, Embedded C, PWM  
+**Tech:** Arduino, IoT, Embedded C, PWM  
 
 ---
 
 ### ♻️ Paper Separation System
 System to separate recyclable and non-recyclable paper using sensor-based detection.
 
-**Tech:** Embedded Systems, Sensors  
+**Tech:** Embedded C, Sensors, Arduino  
 
 ---
 
@@ -34,11 +34,11 @@ System to separate recyclable and non-recyclable paper using sensor-based detect
 
 | 🏅 Award | 🎯 Event | 🏫 Institution |
 |--------|--------|--------------|
-| 🏆 Winners – Best Innovators | National Hackathon 360° 3.0 | KPR Institute |
+| 🏆 Winners – Best Innovators | National Hackathon 360° 3.0 | KPR Institute of Engineering and Technology |
 | 🥇 2nd Place | Project Presentation  | Velammal Institute of Technology |
 | 🥈 3rd Place | Innovative Product | Velammal Engineering College |
 | 🥉 3rd Place | Shark Tank Pitch | Madras Institue of Technology |
-| 🥉 3rd Place | Paper Presentation – Paper Sage | St. Joseph’s College |
+| 🥉 3rd Place | Paper Presentation – Paper Sage | St. Joseph’s College of Engineering |
 | 🥉 Special Mention | project Presentation | Sri Ramakrishna Engineering College |
 
 ---
