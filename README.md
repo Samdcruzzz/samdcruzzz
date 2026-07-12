@@ -65,7 +65,7 @@ ESP32-based lighting system using LDR and PIR sensors. Automatically adjusts bri
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](www.linkedin.com/in/samuel-joshua-j-5491a72a9) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)]([www.linkedin.com/in/samuel-joshua-j-5491a72a9](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BuMGZvL9vRBmrgq8ypkZT7g%3D%3D)) 
 [![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/Samdcruzzz)
 
 ---
