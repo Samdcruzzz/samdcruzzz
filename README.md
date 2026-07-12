@@ -32,10 +32,9 @@ detection. Also separates dry and wet waste.
 
 ### 🎓 Career Compass
 
-AI-powered career guidance platform for 12th-grade students. Conducts assessments 
-based on interests, aptitude, and academic marks to generate personalized 
-course and college recommendations, helping students make informed decisions 
-about their career path.
+AI-powered career guidance platform for 12th-grade students. Assesses 
+interests, aptitude, and academic marks to recommend personalized courses 
+and colleges.
 
 **Tech:** Node.js, Express, HTML/CSS/JavaScript, OpenRouter LLM API
 
