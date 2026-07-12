@@ -2,6 +2,7 @@
 
 🎓 ECE Student  
 💡 Embedded Systems Enthusiast  
+💻 Software Developer
 🏆 Hackathon Winner  
 
 ---
@@ -22,7 +23,8 @@
 ## 🚀 Projects
 
 ### ♻️ Paper Separation System
-System to separate recyclable and non-recyclable paper using sensor-based detection.
+System to separate recyclable and non-recyclable paper using sensor-based 
+detection. Also separates dry and wet waste.
 
 **Tech:** Embedded C, Sensors, Arduino  
 
