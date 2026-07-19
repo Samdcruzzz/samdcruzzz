@@ -31,18 +31,6 @@ detection. Also separates dry and wet waste.
 
 ---
 
-### 🎓 Career Compass
-
-AI-powered career guidance platform for 12th-grade students. Assesses 
-interests, aptitude, and academic marks to recommend personalized courses 
-and colleges.
-
-**Tech:** Node.js, Express, HTML/CSS/JavaScript, OpenRouter LLM API
-
-🔗 [Live Demo](https://career-compass-yhpp.onrender.com/)
-
----
-
 ### 💡 Smart Lighting System
 ESP32-based lighting system using LDR and PIR sensors. Automatically adjusts brightness based on ambient light and motion detection.
 
