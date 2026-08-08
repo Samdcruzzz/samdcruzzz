@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2EA3F2&height=180&section=header&text=Samuel%20Joshua%20J&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20Engineer%20%7C%20Firmware%20Developer%20%7C%20Full-Stack%20Builder&descAlignY=58&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:9333EA,100:EC4899&height=180&section=header&text=Samuel%20Joshua%20J&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20Engineer%20%7C%20Firmware%20Developer%20%7C%20Full-Stack%20Builder&descAlignY=58&descSize=16" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2EA3F2&center=true&vCenter=true&width=560&lines=CubeSat+ADCS+Firmware+%40+Harpy+Aerospace;STM32H7+%2B+FreeRTOS+%2B+Embedded+C;Building+AI-assisted+web+platforms;Final-year+ECE+%40+Velammal+Engineering+College" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=560&lines=CubeSat+ADCS+Firmware+%40+Harpy+Aerospace;STM32H7+%2B+FreeRTOS+%2B+Embedded+C;Building+AI-assisted+web+platforms;Final-year+ECE+%40+Velammal+Engineering+College" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -77,33 +77,19 @@ const samuel = {
 
 <br>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Samdcruzzz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samdcruzzz&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samdcruzzz&hide_border=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Samdcruzzz&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
-</p>
-
-<br>
-
 ## 💼 Experience
 
 **Embedded Engineer Intern** — Harpy Aerospace Private Limited &nbsp;·&nbsp; *May 2026 – Jul 2026*
-CubeSat ADCS firmware in Embedded C / FreeRTOS — B-dot detumbling, magnetorquer PWM drive, event-group mode management, and a unified BMX160 IMU driver backed by a Unity test suite.
+- Built CubeSat ADCS firmware in Embedded C on FreeRTOS — B-dot detumbling control, magnetorquer PWM drive, and event-group mode management across SAFE/DETUMBLING/NOMINAL states
+- Debugged and unified the BMX160 IMU driver, backed by a hand-mocked Unity test suite
 
 **Intern** — Airport Authority of India &nbsp;·&nbsp; *Nov 2025 – Dec 2025*
-Studied and documented airport security systems — X-ray scanners, CCTV, detection technologies, telecom infrastructure.
+- Studied airport security systems — X-ray scanners, CCTV, and telecom infrastructure
+- Analyzed detection technologies and documented the surveillance architecture in a technical report
 
 **In-Plant Trainee** — Globesic Technologies Pvt Ltd &nbsp;·&nbsp; *Dec 2024*
-Hands-on exposure to embedded fundamentals and sensor/actuator interfacing.
+- Gained hands-on exposure to embedded systems fundamentals and real-time applications
+- Studied sensor and actuator interfacing techniques
 
 <br>
 
@@ -124,7 +110,7 @@ B-dot detumbling, magnetorquer PWM control, FreeRTOS state management for a real
 <td width="50%" valign="top">
 
 ### 🧭 Career Compass
-AI-guided college admissions platform for 12th-graders — 439 colleges, all 38 TN districts, marks-aware recommendations.
+AI-guided college admissions platform for 12th-graders - all over TamilNadu colleges, all 38 TN districts, marks-aware recommendations.
 
 `Node.js` `Express` `OpenRouter API`
 
@@ -233,7 +219,7 @@ LDR + IR-based smart lighting — auto brightness by ambient light and motion.
 <p align="center"><i>"Building at the intersection of hardware and software."</i></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Samdcruzzz&style=flat-square&color=2EA3F2" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Samdcruzzz&style=flat-square&color=9333EA" alt="Profile views" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA3F2,100:0F2027&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,100:6D28D9&height=100&section=footer" />
