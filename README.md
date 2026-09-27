@@ -280,9 +280,9 @@ Predictive-maintenance dashboard for EV telemetry — Gemini-powered health scor
 
 <!--START_SECTION:activity-->
 Recent Activity:
-- `chore: add profile assets and CI workflow`
-- `chore: setup assets and github actions workflow`
-- `Revise README images and content`
+- `Update README.md`
+- `Deploy to GitHub pages`
+- `chore: update README activity [skip ci]`
 <!--END_SECTION:activity-->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=3" width="100%"/>
