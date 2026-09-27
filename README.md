@@ -1,82 +1,160 @@
-<p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Samuel Joshua J - Embedded Systems Engineer" />
-</p>
+<div align="center">
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Samuel%20Joshua%20J&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%26%20Firmware%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 
-<p align="center">
-  <a href="mailto:ktmsjsam@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/samuel-joshua-j-5491a72a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Samdcruzzz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<br/>
 
-<p align="center">📍 Chennai, Tamil Nadu &nbsp;·&nbsp; 🎓 Final-year ECE Student &nbsp;·&nbsp; 🏆 Hackathon Winner</p>
+<a href="https://samueljoshua.netlify.app/">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=650&lines=CubeSat+ADCS+Firmware+%40+Harpy+Aerospace;Embedded+C+%C2%B7+STM32H7+%C2%B7+FreeRTOS+%C2%B7+RTOS+Internals;Building+AI-assisted+web+platforms+end-to-end;National+Hackathon+360%C2%B0+3.0+Winner+%F0%9F%8F%86" alt="Typing SVG" />
+</a>
 
-<br>
+<br/><br/>
 
-## 👨‍💻 About Me
+<a href="mailto:ktmsjsam@gmail.com"><img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/samuel-joshua-j-5491a72a9/"><img src="https://img.shields.io/badge/LinkedIn-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Samdcruzzz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://samueljoshua.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-24243E?style=for-the-badge&logo=firefox&logoColor=A855F7" /></a>
 
-I build firmware close to the metal and software close to the user. I recently wrapped up an internship at **Harpy Aerospace** writing CubeSat ADCS firmware — B-dot detumbling, magnetorquer control, FreeRTOS mode management — the kind of work where a single race condition can end a mission. On the other side, I build and ship full web platforms end-to-end, from backend APIs to deployed products used by real people.
+<br/><br/>
 
-```text
+<img src="https://img.shields.io/badge/📍-Chennai,%20Tamil%20Nadu-24243E?style=flat-square" />
+<img src="https://img.shields.io/badge/🎓-Final--Year%20ECE%20Student-24243E?style=flat-square" />
+<img src="https://img.shields.io/badge/🛰️-CubeSat%20ADCS%20Engineer-24243E?style=flat-square" />
+<img src="https://img.shields.io/badge/🏆-Hackathon%20Winner-24243E?style=flat-square" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=3" width="100%"/>
+
+## 👨‍🚀 About Me
+
+I build firmware close to the metal and software close to the user. I recently wrapped up an internship at **Harpy Aerospace**, writing CubeSat ADCS firmware — B-dot detumbling, magnetorquer control, FreeRTOS mode management — the kind of work where a single race condition can end a mission. On the other side, I design and ship AI-assisted web platforms end-to-end: backend APIs, agentic pipelines, and deployed products real people use.
+
+```javascript
 const samuel = {
-    role:        "Embedded Systems & Firmware Engineer",
-    currentWork: ["CubeSat ADCS firmware", "AI-assisted web platforms"],
-    learning:    "RTOS internals & real-time systems design",
-    funFact:     "Plays zonal-level hockey between debugging sessions"
+    role        : "Embedded Systems & Firmware Engineer",
+    currentWork : ["CubeSat ADCS firmware", "AI-orchestrated health-tech", "vision-language sat imagery"],
+    learning    : "RTOS internals & real-time systems design",
+    philosophy  : "test like the mission depends on it — because it does",
+    funFact     : "debugs IMU drivers by day, plays zonal-level hockey by evening"
 };
 ```
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=3" width="100%"/>
 
-## 🛠️ Skills & Expertise
+## 🧠 Tech Arsenal
 
-<p align="center">
-  <img src="assets/skills-orbit.svg" width="100%" max-width="500px" alt="Samuel's Skills Orbit" />
-</p>
+<div align="center">
 
-<details>
-<summary><b>Expand for full skill breakdown</b></summary>
+<img src="https://skillicons.dev/icons?i=c,cpp,arduino,python,java,js,ts,html,css,nodejs,express,react,git,github,vscode&theme=dark" />
 
-**Embedded & RTOS:**
-`Embedded C` `C++` `STM32H7` `FreeRTOS` `Arduino` `ESP32` `Unit Testing (Unity)`
+</div>
 
-**Protocols & Electronics:**
-`UART` `SPI` `I2C` `CAN` `PWM` `CCSDS` `Sensor Interfacing` `PCB Basics`
+<br/>
 
-**Software & Web:**
-`Python` `Java` `JavaScript` `HTML5` `CSS3` `Node.js` `Express.js` `React 19` `TypeScript`
+<table width="100%">
+<tr><td width="30%"><b>🛰️ Embedded &amp; RTOS</b></td><td>
 
-**Tools & Platforms:**
-`Git & GitHub` `Keil uVision` `MATLAB` `VS Code` `Vercel` `Render` `Postman`
+![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=flat-square&logo=c&logoColor=white)
+![STM32H7](https://img.shields.io/badge/STM32H7-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-40C4FF?style=flat-square)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Unity Testing](https://img.shields.io/badge/Unity_Testing-9C27B0?style=flat-square)
 
-</details>
+</td></tr>
+<tr><td><b>📡 Protocols &amp; Electronics</b></td><td>
 
-<br>
+![UART](https://img.shields.io/badge/UART-455A64?style=flat-square)
+![SPI](https://img.shields.io/badge/SPI-455A64?style=flat-square)
+![I2C](https://img.shields.io/badge/I2C-455A64?style=flat-square)
+![CAN](https://img.shields.io/badge/CAN-455A64?style=flat-square)
+![PWM](https://img.shields.io/badge/PWM-455A64?style=flat-square)
+![CCSDS](https://img.shields.io/badge/CCSDS-455A64?style=flat-square)
+![Sensor Fusion](https://img.shields.io/badge/Sensor_Fusion-6D4C41?style=flat-square)
+![PCB Basics](https://img.shields.io/badge/PCB_Basics-6D4C41?style=flat-square)
+
+</td></tr>
+<tr><td><b>🌐 Software &amp; Web</b></td><td>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React 19](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+</td></tr>
+<tr><td><b>🛠️ Tools &amp; Platforms</b></td><td>
+
+![Git](https://img.shields.io/badge/Git_&_GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Keil](https://img.shields.io/badge/Keil_uVision-005493?style=flat-square)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+</td></tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=3" width="100%"/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Samdcruzzz&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=22D3EE&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samdcruzzz&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Samdcruzzz&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=22D3EE&currStreakLabel=A855F7" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=3" width="100%"/>
 
 ## 💼 Experience
 
-**Embedded Engineer Intern** — Harpy Aerospace Private Limited  
-*May 2026 – Jul 2026*
-- Built CubeSat ADCS firmware in Embedded C on FreeRTOS — B-dot detumbling control, magnetorquer PWM drive, and event-group mode management across SAFE/DETUMBLING/NOMINAL states
+<table width="100%">
+<tr>
+<td width="26%" valign="top"><b>May 2026 – Jul 2026</b><br/><sub>Villivakkam / Remote</sub></td>
+<td valign="top">
+
+**Embedded Engineer Intern** · Harpy Aerospace Private Limited
+- Built CubeSat ADCS firmware in Embedded C on FreeRTOS — B-dot detumbling control, magnetorquer PWM drive, and event-group mode management across SAFE / DETUMBLING / NOMINAL states
 - Debugged and unified the BMX160 IMU driver, backed by a hand-mocked Unity test suite
 - Integrated sensor data pipelines with spacecraft telemetry systems
 
-**Intern** — Airport Authority of India  
-*Nov 2025 – Dec 2025*
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Nov 2025 – Dec 2025</b></td>
+<td valign="top">
+
+**Intern** · Airport Authority of India
 - Analyzed X-ray scanners, CCTV, and telecom infrastructure in airport security systems
 - Documented detection technologies and surveillance architecture in technical reports
 
-**In-Plant Trainee** — Globesic Technologies Pvt Ltd  
-*Dec 2024*
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Dec 2024</b></td>
+<td valign="top">
+
+**In-Plant Trainee** · Globesic Technologies Pvt Ltd
 - Hands-on embedded systems fundamentals and real-time applications
 - Sensor and actuator interfacing techniques
 
-<br>
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=3" width="100%"/>
 
 ## 🚀 Featured Projects
 
-<table>
+<table width="100%">
+
 <tr>
 <td width="50%" valign="top">
 
@@ -85,67 +163,84 @@ B-dot detumbling, magnetorquer PWM control, FreeRTOS state management for a real
 
 `Embedded C` `STM32H7` `FreeRTOS` `Unity`
 
-*Proprietary — not public*
+🔒 *Proprietary aerospace codebase — not public*
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧭 Career Compass
-AI-guided college admissions platform for 12th-graders — covers all 38 TN districts, marks-aware recommendations, live demo with 200+ college database.
+AI-guided college admissions platform for 12th-graders — covers all 38 TN districts, marks-aware recommendations, live demo with a 200+ college database.
 
-`Node.js` `Express` `OpenRouter API` `Vercel`
+`Node.js` `Express` `OpenRouter API`
 
 [🔗 Live Demo](https://career-compass-s6l5.onrender.com/) · [📦 GitHub](https://github.com/Samdcruzzz/Career-Compass)
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### 🔋 EV Guardian
-Predictive-maintenance dashboard for EV telemetry — Gemini-powered health scoring, root-cause diagnosis, rule-based fallback architecture.
+### 🌌 SatQuery
+Vision-language assistant for analyzing satellite imagery (optical + SAR) via plain-language queries, with agentic routing to specialist models and auditable outputs.
 
-`React 19` `TypeScript` `Gemini API` `Tailwind`
+`Vision-Language Models` `Agentic Routing` `HTML`
 
-[🔗 Live Demo](https://ev-guardian-h0dk5vfut-nova-minds1.vercel.app) · [📦 GitHub](https://github.com/Samdcruzzz/EV-Guardian)
+![Fork](https://img.shields.io/badge/🔀_Extended_Fork-24243E?style=flat-square)
+
+[📦 GitHub](https://github.com/Samdcruzzz/SatQuery)
 
 </td>
 <td width="50%" valign="top">
 
-### 📲 PingSense
-WhatsApp notification router — OCR, offline speech recognition, scam/prompt-injection filtering. **83.3% action accuracy.**
+### 🧬 Continnum
+AI-orchestrated health memory platform for elderly care — unifies fragmented medical records and flags polypharmacy, cognitive decline, and consent risks in real time.
 
-`Python` `pytesseract` `Anthropic API` `Flask`
+`Python` `AI Orchestration` `Health-Tech`
 
-[📦 GitHub](https://github.com/Samdcruzzz/PingSense-Orchestrate)
+[📦 GitHub](https://github.com/Samdcruzzz/continnum)
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 ### ♻️ Paper Sage
-Sensor-driven recyclable/non-recyclable paper sorter. **🥇 National Hackathon 360° 3.0 Winner.**
+Sensor-driven recyclable / non-recyclable paper sorter. **🥇 National Hackathon 360° 3.0 Winner.**
 
-`Microcontroller` `Sensor Array` `Actuators` `Computer Vision`
+`Microcontroller` `Sensor Array` `Actuators`
 
 [📦 GitHub](https://github.com/Samdcruzzz/Paper-Sage)
 
 </td>
 <td width="50%" valign="top">
 
-### 💡 Smart Light Control
-LDR + IR-based auto-brightness and motion-responsive lighting system. Deployed in lab environment.
+### 🔋 EV Guardian
+Predictive-maintenance dashboard for EV telemetry — Gemini-powered health scoring, root-cause diagnosis, rule-based fallback architecture.
 
-`Arduino` `Embedded C` `PWM` `Sensor Fusion`
+`React 19` `TypeScript` `Gemini API`
 
-[📦 GitHub](https://github.com/Samdcruzzz/Light-Intensity)
+[🔗 Live Demo](https://ev-guardian-h0dk5vfut-nova-minds1.vercel.app) · [📦 GitHub](https://github.com/Samdcruzzz/EV-Guardian)
 
 </td>
 </tr>
+
 </table>
 
-<br>
+<details>
+<summary><b>🗂️ More Projects — click to expand</b></summary>
+<br/>
+
+| Project | Description | Stack |
+|:--|:--|:--|
+| 📲 [**PingSense**](https://github.com/Samdcruzzz/PingSense-Orchestrate) | WhatsApp notification router — OCR, offline speech recognition, scam/prompt-injection filtering. **83.3% action accuracy.** | `Python` `pytesseract` `Anthropic API` |
+| 🎉 [**AllCollegeEvent**](https://github.com/Samdcruzzz) | Gamified campus event platform & Gen Z community hub — discover fests, earn XP, build squads, AI-powered itineraries. | `TypeScript` `MIT License` |
+| 💡 [**Smart Light Control**](https://github.com/Samdcruzzz/Light-Intensity) | LDR + IR-based auto-brightness and motion-responsive lighting system. Deployed in a lab environment. | `Arduino` `Embedded C` `PWM` |
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=3" width="100%"/>
 
 ## 🎓 Education
 
@@ -155,7 +250,7 @@ LDR + IR-based auto-brightness and motion-responsive lighting system. Deployed i
 | **HSC** | I.C.F Silver Jubilee Matriculation & HSS | 2022 – 2023 | 78.83% |
 | **SSLC** | I.C.F Silver Jubilee Matriculation & HSS | 2020 – 2021 | 100% |
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=3" width="100%"/>
 
 ## 🏆 Achievements
 
@@ -168,40 +263,59 @@ LDR + IR-based auto-brightness and motion-responsive lighting system. Deployed i
 | 🥉 **3rd Prize** | Innovative Product | Velammal Engineering College |
 | ✦ **Special Mention** | Project Expo | Sri Ramakrishna Engineering College |
 
-<br>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Samdcruzzz&theme=radical&no-frame=true&row=1&column=6&margin-w=8" />
+</div>
 
 ## 📜 Certifications
 
-- Advance Diploma in Python Programming — CSC
-- Cryptography & Network Security — NPTEL
-- The Future of Full Stack Development: Key Skills Needed in 2026 — GUVI × HCL
-- **Orchestrate** — Built & Deployed an AI Agent — HackerRank *(Rank #1090 / 1,983, Aug 2026)*
+- 🎖️ Advance Diploma in Python Programming — CSC
+- 🔐 Cryptography & Network Security — NPTEL
+- 💻 The Future of Full Stack Development: Key Skills Needed in 2026 — GUVI × HCL
+- 🤖 **Orchestrate** — Built & Deployed an AI Agent — HackerRank *(Rank #1090 / 1,983, Aug 2026)*
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=3" width="100%"/>
 
 ## 📫 Recent Activity
 
 <!--START_SECTION:activity-->
 Recent Activity:
-- `Redesign profile README with animated stats, banner, and featured projects`
-- `chore: update README activity [skip ci]`
 - `chore: add profile assets and CI workflow`
+- `chore: setup assets and github actions workflow`
+- `Revise README images and content`
 <!--END_SECTION:activity-->
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=3" width="100%"/>
 
-## 💬 Connect with Me
+## 🐍 Contribution Graph
 
-<p align="center">
-  <a href="mailto:ktmsjsam@gmail.com"><img src="https://img.shields.io/badge/Email-ktmsjsam%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a><br>
-  <a href="https://www.linkedin.com/in/samuel-joshua-j-5491a72a9/"><img src="https://img.shields.io/badge/LinkedIn-samuel--joshua--j-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a><br>
-  <a href="https://github.com/Samdcruzzz"><img src="https://img.shields.io/badge/GitHub-Samdcruzzz-181717?style=flat-square&logo=github&logoColor=white" /></a>
-</p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Samdcruzzz/Samdcruzzz/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<sub>Animates automatically once the <code>snake.yml</code> workflow (included) runs — see setup note below.</sub>
+</div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=3" width="100%"/>
 
-<p align="center"><i>"Building at the intersection of hardware and software — where firmware meets the world."</i></p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Samdcruzzz&style=flat-square&color=a855f7" alt="Profile views" />
-</p>
+## 💬 Let's Build Something
+
+<a href="https://samueljoshua.netlify.app/"><img src="https://img.shields.io/badge/🚀_View_Full_Portfolio-A855F7?style=for-the-badge&logoColor=white" /></a>
+
+<br/><br/>
+
+<a href="mailto:ktmsjsam@gmail.com"><img src="https://img.shields.io/badge/ktmsjsam%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/samuel-joshua-j-5491a72a9/"><img src="https://img.shields.io/badge/samuel--joshua--j-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Samdcruzzz"><img src="https://img.shields.io/badge/Samdcruzzz-181717?style=flat-square&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+
+<i>"Building at the intersection of hardware and software — where firmware meets the world."</i>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Samdcruzzz&style=flat-square&color=a855f7&label=Profile+Views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+</div>
