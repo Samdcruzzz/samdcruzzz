@@ -182,9 +182,10 @@ LDR + IR-based auto-brightness and motion-responsive lighting system. Deployed i
 ## 📫 Recent Activity
 
 <!--START_SECTION:activity-->
-- 🔄 Auto-injected activity section — GitHub Actions runs every 6 hours
-- ⚙️ Fetch latest commits, PRs, and deployments
-- 📝 This section updates automatically when you push
+Recent Activity:
+- `chore: add profile assets and CI workflow`
+- `chore: setup assets and github actions workflow`
+- `Revise README images and content`
 <!--END_SECTION:activity-->
 
 <br>
