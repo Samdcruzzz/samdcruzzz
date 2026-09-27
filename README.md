@@ -183,9 +183,9 @@ LDR + IR-based auto-brightness and motion-responsive lighting system. Deployed i
 
 <!--START_SECTION:activity-->
 Recent Activity:
+- `Redesign profile README with animated stats, banner, and featured projects`
+- `chore: update README activity [skip ci]`
 - `chore: add profile assets and CI workflow`
-- `chore: setup assets and github actions workflow`
-- `Revise README images and content`
 <!--END_SECTION:activity-->
 
 <br>
