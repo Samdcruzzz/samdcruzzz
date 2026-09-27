@@ -1,28 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Samuel%20Joshua%20J&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Embedded%20Systems%20%26%20Firmware%20Engineer&descAlignY=54&descSize=20" width="100%"/>
-
-<img src="assets/butterfly.png" width="86"/>
-
-<br/>
+<img src="assets/banner.svg" width="100%"/>
 
 <a href="https://samueljoshua.netlify.app/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=2DD4BF&center=true&vCenter=true&width=650&lines=CubeSat+ADCS+Firmware+%40+Harpy+Aerospace;Embedded+C+%C2%B7+STM32H7+%C2%B7+FreeRTOS+%C2%B7+RTOS+Internals;Building+AI-assisted+web+platforms+end-to-end;National+Hackathon+360%C2%B0+3.0+Winner+%F0%9F%8F%86" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=FFD60A&center=true&vCenter=true&width=650&lines=CubeSat+ADCS+Firmware+%40+Harpy+Aerospace;Embedded+C+%C2%B7+STM32H7+%C2%B7+FreeRTOS+%C2%B7+RTOS+Internals;Building+AI-assisted+web+platforms+end-to-end;National+Hackathon+360%C2%B0+3.0+Winner+%F0%9F%8F%86" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<a href="mailto:ktmsjsam@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/samuel-joshua-j-5491a72a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Samdcruzzz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:ktmsjsam@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/samuel-joshua-j-5491a72a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://github.com/Samdcruzzz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://samueljoshua.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/📍-Chennai,%20Tamil%20Nadu-16213E?style=flat-square" />
-<img src="https://img.shields.io/badge/🎓-Final--Year%20ECE%20Student-16213E?style=flat-square" />
-<img src="https://img.shields.io/badge/🛰️-CubeSat%20ADCS%20Engineer-16213E?style=flat-square" />
-<img src="https://img.shields.io/badge/🏆-Hackathon%20Winner-16213E?style=flat-square" />
+<img src="https://img.shields.io/badge/📍-Chennai,%20Tamil%20Nadu-0EA5E9?style=flat-square" />&nbsp;
+<img src="https://img.shields.io/badge/🎓-Final--Year%20ECE%20Student-8B5CF6?style=flat-square" />&nbsp;
+<img src="https://img.shields.io/badge/🛰️-CubeSat%20ADCS%20Engineer-06B6D4?style=flat-square" />&nbsp;
+<img src="https://img.shields.io/badge/🏆-Hackathon%20Winner-F97316?style=flat-square" />
 
 </div>
 
@@ -100,21 +96,6 @@ const samuel = {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=3" width="100%"/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Samdcruzzz&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=22D3EE&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samdcruzzz&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Samdcruzzz&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=22D3EE&currStreakLabel=A855F7" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=3" width="100%"/>
-
 ## 💼 Experience
 
 <table width="100%">
@@ -188,7 +169,7 @@ Vision-language assistant for analyzing satellite imagery (optical + SAR) via pl
 
 `Vision-Language Models` `Agentic Routing` `HTML`
 
-![Fork](https://img.shields.io/badge/🔀_Extended_Fork-16213E?style=flat-square)
+![Fork](https://img.shields.io/badge/🔀_Extended_Fork-EC4899?style=flat-square)
 
 [📦 GitHub](https://github.com/Samdcruzzz/SatQuery)
 
@@ -304,9 +285,9 @@ Recent Activity:
 
 <br/><br/>
 
-<a href="mailto:ktmsjsam@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/samuel-joshua-j-5491a72a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Samdcruzzz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:ktmsjsam@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/samuel-joshua-j-5491a72a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://github.com/Samdcruzzz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://samueljoshua.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 
 <br/><br/>
