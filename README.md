@@ -1,26 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Samuel%20Joshua%20J&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%26%20Firmware%20Engineer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Samuel%20Joshua%20J&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Embedded%20Systems%20%26%20Firmware%20Engineer&descAlignY=54&descSize=20" width="100%"/>
+
+<img src="assets/butterfly.png" width="86"/>
 
 <br/>
 
 <a href="https://samueljoshua.netlify.app/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=650&lines=CubeSat+ADCS+Firmware+%40+Harpy+Aerospace;Embedded+C+%C2%B7+STM32H7+%C2%B7+FreeRTOS+%C2%B7+RTOS+Internals;Building+AI-assisted+web+platforms+end-to-end;National+Hackathon+360%C2%B0+3.0+Winner+%F0%9F%8F%86" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=2DD4BF&center=true&vCenter=true&width=650&lines=CubeSat+ADCS+Firmware+%40+Harpy+Aerospace;Embedded+C+%C2%B7+STM32H7+%C2%B7+FreeRTOS+%C2%B7+RTOS+Internals;Building+AI-assisted+web+platforms+end-to-end;National+Hackathon+360%C2%B0+3.0+Winner+%F0%9F%8F%86" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<a href="mailto:ktmsjsam@gmail.com"><img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/samuel-joshua-j-5491a72a9/"><img src="https://img.shields.io/badge/LinkedIn-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ktmsjsam@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/samuel-joshua-j-5491a72a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Samdcruzzz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://samueljoshua.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-24243E?style=for-the-badge&logo=firefox&logoColor=A855F7" /></a>
+<a href="https://samueljoshua.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/📍-Chennai,%20Tamil%20Nadu-24243E?style=flat-square" />
-<img src="https://img.shields.io/badge/🎓-Final--Year%20ECE%20Student-24243E?style=flat-square" />
-<img src="https://img.shields.io/badge/🛰️-CubeSat%20ADCS%20Engineer-24243E?style=flat-square" />
-<img src="https://img.shields.io/badge/🏆-Hackathon%20Winner-24243E?style=flat-square" />
+<img src="https://img.shields.io/badge/📍-Chennai,%20Tamil%20Nadu-16213E?style=flat-square" />
+<img src="https://img.shields.io/badge/🎓-Final--Year%20ECE%20Student-16213E?style=flat-square" />
+<img src="https://img.shields.io/badge/🛰️-CubeSat%20ADCS%20Engineer-16213E?style=flat-square" />
+<img src="https://img.shields.io/badge/🏆-Hackathon%20Winner-16213E?style=flat-square" />
 
 </div>
 
@@ -186,7 +188,7 @@ Vision-language assistant for analyzing satellite imagery (optical + SAR) via pl
 
 `Vision-Language Models` `Agentic Routing` `HTML`
 
-![Fork](https://img.shields.io/badge/🔀_Extended_Fork-24243E?style=flat-square)
+![Fork](https://img.shields.io/badge/🔀_Extended_Fork-16213E?style=flat-square)
 
 [📦 GitHub](https://github.com/Samdcruzzz/SatQuery)
 
@@ -294,19 +296,18 @@ Recent Activity:
 <sub>Animates automatically once the <code>snake.yml</code> workflow (included) runs — see setup note below.</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=3" width="100%"/>
-
 <div align="center">
 
 ## 💬 Let's Build Something
 
-<a href="https://samueljoshua.netlify.app/"><img src="https://img.shields.io/badge/🚀_View_Full_Portfolio-A855F7?style=for-the-badge&logoColor=white" /></a>
+<a href="https://samueljoshua.netlify.app/"><img src="https://img.shields.io/badge/🚀_View_Full_Portfolio-00C7B7?style=for-the-badge&logoColor=white" /></a>
 
 <br/><br/>
 
-<a href="mailto:ktmsjsam@gmail.com"><img src="https://img.shields.io/badge/ktmsjsam%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/samuel-joshua-j-5491a72a9/"><img src="https://img.shields.io/badge/samuel--joshua--j-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Samdcruzzz"><img src="https://img.shields.io/badge/Samdcruzzz-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="mailto:ktmsjsam@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/samuel-joshua-j-5491a72a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Samdcruzzz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://samueljoshua.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 
 <br/><br/>
 
@@ -314,8 +315,12 @@ Recent Activity:
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Samdcruzzz&style=flat-square&color=a855f7&label=Profile+Views" />
+<img src="assets/butterfly.png" width="80"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Samdcruzzz&style=flat-square&color=2DD4BF&label=Profile+Views" />
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2C5364,50:203A43,100:0F2027&height=140&section=footer" width="100%"/>
 
 </div>
