@@ -1,0 +1,148 @@
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Dark background -->
+    <radialGradient id="orbitBg" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#1a1a2e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0f172a;stop-opacity:1" />
+    </radialGradient>
+
+    <!-- Text gradient -->
+    <linearGradient id="skillGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#a855f7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ec4899;stop-opacity:1" />
+    </linearGradient>
+
+    <!-- Glow filter -->
+    <filter id="skillGlow">
+      <feGaussianBlur stdDeviation="2"/>
+      <feOffset result="offsetblur"/>
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.3"/>
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode in="offsetblur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Animations -->
+    <style>
+      @keyframes spin-cw {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+      }
+      @keyframes spin-ccw {
+        0% { transform: rotate(360deg); }
+        100% { transform: rotate(0deg); }
+      }
+      @keyframes float-in-out {
+        0%, 100% { opacity: 0.7; }
+        50% { opacity: 1; }
+      }
+      .ring-outer { 
+        animation: spin-cw 20s linear infinite;
+        transform-origin: 250px 250px;
+      }
+      .ring-middle {
+        animation: spin-ccw 15s linear infinite;
+        transform-origin: 250px 250px;
+      }
+      .ring-inner {
+        animation: spin-cw 12s linear infinite;
+        transform-origin: 250px 250px;
+      }
+      .skill-badge {
+        animation: float-in-out 3s ease-in-out infinite;
+      }
+      .core-circle { animation: float-in-out 4s ease-in-out infinite; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <circle cx="250" cy="250" r="250" fill="url(#orbitBg)"/>
+
+  <!-- OUTER RING (Web & Software) - 20s rotation -->
+  <g class="ring-outer">
+    <!-- Orbit path (subtle) -->
+    <circle cx="250" cy="250" r="200" fill="none" stroke="#7c3aed" stroke-width="1" opacity="0.15"/>
+    
+    <!-- Skills at cardinal points -->
+    <circle cx="250" cy="50" r="30" fill="#6d28d9" opacity="0.3" filter="url(#skillGlow)"/>
+    <text x="250" y="58" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#e9d5ff">React</text>
+
+    <circle cx="450" cy="250" r="30" fill="#6d28d9" opacity="0.3" filter="url(#skillGlow)"/>
+    <text x="450" y="258" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#e9d5ff">Node.js</text>
+
+    <circle cx="250" cy="450" r="30" fill="#6d28d9" opacity="0.3" filter="url(#skillGlow)"/>
+    <text x="250" y="458" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#e9d5ff">Python</text>
+
+    <circle cx="50" cy="250" r="30" fill="#6d28d9" opacity="0.3" filter="url(#skillGlow)"/>
+    <text x="50" y="258" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#e9d5ff">TypeScript</text>
+  </g>
+
+  <!-- MIDDLE RING (Embedded) - 15s counter-rotation -->
+  <g class="ring-middle">
+    <!-- Orbit path -->
+    <circle cx="250" cy="250" r="140" fill="none" stroke="#a855f7" stroke-width="1" opacity="0.2"/>
+    
+    <!-- Diagonal skills -->
+    <circle cx="349" cy="99" r="26" fill="#9333ea" opacity="0.35" filter="url(#skillGlow)"/>
+    <text x="349" y="106" font-family="'Segoe UI', sans-serif" font-size="10" font-weight="700" text-anchor="middle" fill="#f3e8ff">STM32H7</text>
+
+    <circle cx="401" cy="401" r="26" fill="#9333ea" opacity="0.35" filter="url(#skillGlow)"/>
+    <text x="401" y="408" font-family="'Segoe UI', sans-serif" font-size="10" font-weight="700" text-anchor="middle" fill="#f3e8ff">FreeRTOS</text>
+
+    <circle cx="99" cy="401" r="26" fill="#9333ea" opacity="0.35" filter="url(#skillGlow)"/>
+    <text x="99" y="408" font-family="'Segoe UI', sans-serif" font-size="10" font-weight="700" text-anchor="middle" fill="#f3e8ff">C/C++</text>
+
+    <circle cx="99" cy="99" r="26" fill="#9333ea" opacity="0.35" filter="url(#skillGlow)"/>
+    <text x="99" y="106" font-family="'Segoe UI', sans-serif" font-size="10" font-weight="700" text-anchor="middle" fill="#f3e8ff">Arduino</text>
+  </g>
+
+  <!-- INNER RING (Protocols) - 12s rotation -->
+  <g class="ring-inner">
+    <!-- Orbit path -->
+    <circle cx="250" cy="250" r="80" fill="none" stroke="#ec4899" stroke-width="1" opacity="0.2"/>
+    
+    <!-- Key protocols -->
+    <circle cx="250" cy="170" r="20" fill="#db2777" opacity="0.4" filter="url(#skillGlow)"/>
+    <text x="250" y="176" font-family="'Segoe UI', sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#fce7f3">SPI</text>
+
+    <circle cx="330" cy="250" r="20" fill="#db2777" opacity="0.4" filter="url(#skillGlow)"/>
+    <text x="330" y="256" font-family="'Segoe UI', sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#fce7f3">I2C</text>
+
+    <circle cx="250" cy="330" r="20" fill="#db2777" opacity="0.4" filter="url(#skillGlow)"/>
+    <text x="250" y="336" font-family="'Segoe UI', sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#fce7f3">UART</text>
+
+    <circle cx="170" cy="250" r="20" fill="#db2777" opacity="0.4" filter="url(#skillGlow)"/>
+    <text x="170" y="256" font-family="'Segoe UI', sans-serif" font-size="9" font-weight="700" text-anchor="middle" fill="#fce7f3">CAN</text>
+  </g>
+
+  <!-- CORE (pulsing) -->
+  <g class="core-circle">
+    <circle cx="250" cy="250" r="35" fill="#6d28d9" opacity="0.25" filter="url(#skillGlow)"/>
+    <circle cx="250" cy="250" r="28" fill="none" stroke="#a855f7" stroke-width="2" opacity="0.5"/>
+  </g>
+
+  <!-- Center title -->
+  <text 
+    x="250" 
+    y="260" 
+    font-family="'Segoe UI', 'Courier New', monospace" 
+    font-size="16" 
+    font-weight="700"
+    text-anchor="middle" 
+    fill="url(#skillGradient)"
+  >Samuel</text>
+
+  <!-- Bottom label -->
+  <text 
+    x="250" 
+    y="485" 
+    font-family="'Segoe UI', sans-serif" 
+    font-size="12" 
+    text-anchor="middle" 
+    fill="#c084fc"
+    opacity="0.7"
+  >Skills & Expertise</text>
+</svg>

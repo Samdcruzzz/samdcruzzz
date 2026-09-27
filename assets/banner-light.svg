@@ -1,0 +1,84 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Light background -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+
+    <!-- Purple to pink text gradient (more vibrant for light bg) -->
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#9333ea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#db2777;stop-opacity:1" />
+    </linearGradient>
+
+    <!-- Accent glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Subtle animation -->
+    <style>
+      @keyframes float {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-8px); }
+      }
+      .floating {
+        animation: float 3s ease-in-out infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="300" fill="url(#bgGradient)"/>
+
+  <!-- Accent lines -->
+  <line x1="0" y1="80" x2="1200" y2="80" stroke="#9333ea" stroke-width="2" opacity="0.25"/>
+  <line x1="0" y1="220" x2="1200" y2="220" stroke="#db2777" stroke-width="2" opacity="0.25"/>
+
+  <!-- Left accent circle (blurred) -->
+  <circle cx="80" cy="150" r="120" fill="#a855f7" opacity="0.08" filter="url(#glow)"/>
+  
+  <!-- Right accent circle (blurred) -->
+  <circle cx="1120" cy="150" r="100" fill="#ec4899" opacity="0.06" filter="url(#glow)"/>
+
+  <!-- Main title -->
+  <text 
+    x="600" 
+    y="120" 
+    font-family="'Segoe UI', 'Helvetica Neue', sans-serif" 
+    font-size="72" 
+    font-weight="700"
+    text-anchor="middle" 
+    fill="url(#textGradient)"
+    letter-spacing="-2"
+  >Samuel Joshua J</text>
+
+  <!-- Subtitle with icon placeholder -->
+  <text 
+    x="600" 
+    y="185" 
+    font-family="'Segoe UI', 'Helvetica Neue', sans-serif" 
+    font-size="28" 
+    text-anchor="middle" 
+    fill="#7c3aed"
+    opacity="0.90"
+  >⚡ Embedded Systems Engineer • Full-Stack Builder</text>
+
+  <!-- Bottom accent badge area (for achievements) -->
+  <rect x="350" y="245" width="500" height="40" rx="8" fill="#e9d5ff" opacity="0.5" stroke="#a855f7" stroke-width="1"/>
+  <text 
+    x="600" 
+    y="272" 
+    font-family="'Courier New', monospace" 
+    font-size="14" 
+    text-anchor="middle" 
+    fill="#5b21b6"
+    opacity="0.85"
+  >Final-year ECE @ Velammal • CubeSat ADCS Firmware • Hackathon Winner</text>
+</svg>
