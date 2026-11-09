@@ -2,7 +2,7 @@
 
 <img src="./assets/Samuel Joshua J.svg" alt="Samuel Joshua J" width="100%" />
 
-<h1>Samuel Joshua J</h1>
+
 
 <a href="https://samueljoshua.netlify.app/"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F43F5E&center=true&vCenter=true&width=640&height=32&lines=Embedded+Systems+%26+Firmware+Engineer;CubeSat+ADCS+%C2%B7+STM32H7+%C2%B7+FreeRTOS;AI-assisted+web+platforms%2C+end+to+end" alt="Typing SVG" /></a>
 
@@ -150,7 +150,7 @@ B-dot detumbling, magnetorquer PWM control and FreeRTOS state management. Unity-
 ### 🧭 Career Compass
 AI-guided college admissions platform for 12th-graders. Covers all 38 TN districts with marks-aware recommendations and a 200+ college database.
 
-`Node.js` `Express` `OpenRouter API`
+`Node.js` `Express` `Groq (Llama 3.3 70B)`
 
 [🔗 Live Demo](https://career-compass-s6l5.onrender.com/) · [📦 Code](https://github.com/Samdcruzzz/Career-Compass)
 
@@ -231,20 +231,6 @@ Sensor-driven recyclable / non-recyclable paper sorter.
 <sub>Each tower is a day of commits, PRs and issues: taller means busier.</sub>
 </div>
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samdcruzzz/Samdcruzzz/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Samdcruzzz/Samdcruzzz/output/snake.svg">
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Samdcruzzz/Samdcruzzz/output/snake-dark.svg" width="100%">
-</picture>
-
-## 📊 Live GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Samdcruzzz&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samdcruzzz&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top languages" />
-</p>
 
 ## 🏆 Recognition
 
