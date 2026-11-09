@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/dark-elegant-hero.svg" alt="Samuel Joshua J" width="100%" />
+<img src="./assets/Samuel Joshua J.svg" alt="Samuel Joshua J" width="100%" />
 
 <h1>Samuel Joshua J</h1>
 
