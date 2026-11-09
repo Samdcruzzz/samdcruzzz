@@ -221,15 +221,7 @@ Sensor-driven recyclable / non-recyclable paper sorter.
 
 ## 🏙️ Contribution Skyline
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season.svg">
-  <img alt="3D contribution graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
-</picture>
-
-<div align="center">
-<sub>Each tower is a day of commits, PRs and issues: taller means busier.</sub>
-</div>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg"> <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season.svg"> <img alt="3D contribution graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"> </picture> <div align="center"> <sub>Each tower is a day of commits, PRs and issues: taller means busier.</sub> </div>
 
 
 ## 🏆 Recognition
