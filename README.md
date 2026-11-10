@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="./assets/Samuel Joshua J.svg" alt="Samuel Joshua J" width="100%" />
-
-
-
-<a href="https://samueljoshua.netlify.app/"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F43F5E&center=true&vCenter=true&width=640&height=32&lines=Embedded+Systems+%26+Firmware+Engineer;CubeSat+ADCS+%C2%B7+STM32H7+%C2%B7+FreeRTOS;AI-assisted+web+platforms%2C+end+to+end" alt="Typing SVG" /></a>
+<img src="./assets/Samuel%20Joshua%20J.svg" alt="Samuel Joshua J" width="100%" />
 
 <p>Final-Year ECE (2027) · Chennai, India · National Hackathon 360° 3.0 Winner</p>
 
@@ -16,131 +12,53 @@
 
 ---
 
-### About
+## About
 
-I build firmware close to the metal and software close to the user.
+Final-year ECE student with hands-on experience in embedded firmware (Embedded C, STM32H750, FreeRTOS) and full-stack development (Node.js, FastAPI, LLM APIs).
 
-Most recently I interned at **Harpy Aerospace**, writing CubeSat ADCS firmware: B-dot detumbling, magnetorquer control and FreeRTOS mode management, the kind of work where a single race condition can end a mission. Alongside that, I design and ship AI-assisted web platforms end to end: backend APIs, agentic pipelines and deployed products.
-
-### Approach
-
-I treat embedded and web work as one discipline: define the failure modes first, test against them, then ship. On spacecraft firmware that means explicit state machines, mocked hardware and unit tests before anything flies. On web platforms it means fallbacks and auditable outputs, like the rule-based fallback in EV Guardian and the traceable answers in SatQuery.
-
-### Currently
-
-Exploring RTOS internals and real-time systems design, building an AI-orchestrated health memory platform (Continnum), and extending a vision-language assistant for satellite imagery (SatQuery).
-
-### Selected
-
-> *CubeSat ADCS Firmware*: B-dot detumbling, magnetorquer PWM control and FreeRTOS state management, Unity-tested with hand-mocked drivers.<br>
-> *Career Compass*: AI-guided college admissions platform covering all 38 TN districts, with a 200+ college database and a [live demo](https://career-compass-s6l5.onrender.com/).
+I developed CubeSat ADCS firmware at **Harpy Aerospace**, and I build and deploy AI-powered projects end to end, including Career Compass and SatQuery. Currently exploring RTOS internals and real-time systems design.
 
 <div align="center">
 
-| 🛰️ **Aerospace firmware** | 🏆 **Hackathon winner** | 🌐 **Full-stack AI builds** | 📡 **Real-time systems** |
+| 🛰️ **CubeSat firmware** | 🏆 **Hackathon winner** | 🌐 **AI projects, live** | ✅ **90% accuracy** |
 |:--:|:--:|:--:|:--:|
-| CubeSat ADCS<br/>FreeRTOS · STM32H7 | National Hackathon 360° 3.0<br/>+ 3 more podium finishes | 6+ shipped projects<br/>with live demos | RTOS internals<br/>Sensor fusion · CCSDS |
+| STM32H750 · FreeRTOS | National Hackathon 360° 3.0 | Career Compass · SatQuery | Paper Sage sorting system |
 
 </div>
 
----
+## Technical Skills
 
-## 🧠 Tech Stack
+| | |
+|:--|:--|
+| **Languages** | `Python` `C` `C++` `Embedded C` `JavaScript` `TypeScript` |
+| **Embedded / RTOS** | `STM32H750` `STM32 HAL` `FreeRTOS` `Arduino Uno` `ESP32` `I2C` `SPI` `Unity (C unit testing)` |
+| **Backend & APIs** | `Node.js` `Express` `FastAPI` `REST APIs` `Pydantic` `LLM APIs (Gemini, Groq)` |
+| **Frontend** | `HTML` `CSS` `JavaScript` `React` `Tailwind CSS` `Leaflet` |
+| **Tools & Platforms** | `Git / GitHub` `STM32CubeIDE` `Vercel` `Render` `Netlify` |
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,arduino,python,java,ts,react,nodejs,express,git,github,vscode&theme=dark" />
-</div>
+## Experience
 
-<br/>
+**Embedded Engineer Intern** · Harpy Aerospace Private Limited · *May – Jul 2026*
+- Developed Embedded C drivers (BMX160 IMU over I2C/SPI) for CubeSat ADCS firmware on STM32H750 with FreeRTOS; unified shared sensor drivers and fixed 6+ bugs.
+- Implemented B-dot detumbling control and FreeRTOS event-group mode management (SAFE / DETUMBLING / NOMINAL), with magnetorquer control integration.
+- Built and ran Unity unit tests with manual hardware mocking (I2C, timers) to catch regressions early.
 
-<table width="100%">
-<tr><td width="28%"><b>🛰️ Embedded & RTOS</b></td><td>
+**Intern** · Airport Authority of India · *Nov – Dec 2025*
+- Documented the working principles and surveillance architecture of airport security systems (X-ray scanners, CCTV, ETD, metal detectors) in a technical report.
 
-![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=flat-square&logo=c&logoColor=white)
-![STM32H7](https://img.shields.io/badge/STM32H7-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-40C4FF?style=flat-square)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity_Testing-9C27B0?style=flat-square)
+**In-Plant Trainee** · GlobeSic Technologies · *Dec 2024*
+- Hands-on exposure to microcontroller basics, real-time design and sensor/actuator interfacing.
 
-</td></tr>
-<tr><td><b>📡 Protocols & Electronics</b></td><td>
-
-![UART](https://img.shields.io/badge/UART-455A64?style=flat-square)
-![SPI](https://img.shields.io/badge/SPI-455A64?style=flat-square)
-![I2C](https://img.shields.io/badge/I2C-455A64?style=flat-square)
-![CAN](https://img.shields.io/badge/CAN-455A64?style=flat-square)
-![PWM](https://img.shields.io/badge/PWM-455A64?style=flat-square)
-![CCSDS](https://img.shields.io/badge/CCSDS-455A64?style=flat-square)
-![Sensor Fusion](https://img.shields.io/badge/Sensor_Fusion-6D4C41?style=flat-square)
-
-</td></tr>
-<tr><td><b>🌐 Software & Web</b></td><td>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-</td></tr>
-<tr><td><b>🛠️ Tools & Platforms</b></td><td>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Keil](https://img.shields.io/badge/Keil_uVision-005493?style=flat-square)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-
-</td></tr>
-</table>
-
-## 💼 Experience
-
-<table width="100%">
-<tr>
-<td width="22%" valign="top"><b>May – Jul 2026</b><br/><sub>Chennai / Remote</sub></td>
-<td valign="top">
-
-**Embedded Engineer Intern** · *Harpy Aerospace*
-- Built CubeSat ADCS firmware in Embedded C on FreeRTOS: B-dot detumbling, magnetorquer PWM drive, event-group mode management (SAFE / DETUMBLING / NOMINAL)
-- Debugged and unified the BMX160 IMU driver, backed by a hand-mocked Unity test suite
-- Integrated sensor data pipelines with spacecraft telemetry systems
-
-</td>
-</tr>
-<tr>
-<td valign="top"><b>Nov – Dec 2025</b></td>
-<td valign="top">
-
-**Intern** · *Airport Authority of India*
-- Analyzed X-ray scanners, CCTV and telecom infrastructure in airport security systems
-- Documented detection technologies and surveillance architecture in technical reports
-
-</td>
-</tr>
-<tr>
-<td valign="top"><b>Dec 2024</b></td>
-<td valign="top">
-
-**In-Plant Trainee** · *Globesic Technologies*
-- Embedded systems fundamentals, sensor and actuator interfacing
-
-</td>
-</tr>
-</table>
-
-## 🚀 Featured Projects
+## Featured Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ### 🛰️ CubeSat ADCS Firmware
-B-dot detumbling, magnetorquer PWM control and FreeRTOS state management. Unity-tested with hand-mocked drivers.
+B-dot detumbling, magnetorquer control and FreeRTOS state management on STM32H750. Unity-tested with hand-mocked drivers.
 
-`Embedded C` `STM32H7` `FreeRTOS` `Unity`
+`Embedded C` `STM32H750` `FreeRTOS`
 
 🔒 *Proprietary codebase, not public*
 
@@ -148,9 +66,9 @@ B-dot detumbling, magnetorquer PWM control and FreeRTOS state management. Unity-
 <td width="50%" valign="top">
 
 ### 🧭 Career Compass
-AI-guided college admissions platform for 12th-graders. Covers all 38 TN districts with marks-aware recommendations and a 200+ college database.
+AI career guidance platform for Tamil Nadu 12th-graders. Covers all 38 districts, with LLM-generated college and career recommendations and a multi-model fallback chain.
 
-`Node.js` `Express` `Groq (Llama 3.3 70B)`
+`Node.js` `Express` `LLM API`
 
 [🔗 Live Demo](https://career-compass-s6l5.onrender.com/) · [📦 Code](https://github.com/Samdcruzzz/Career-Compass)
 
@@ -159,12 +77,34 @@ AI-guided college admissions platform for 12th-graders. Covers all 38 TN distric
 <tr>
 <td width="50%" valign="top">
 
-### 🔋 EV Guardian
-Predictive-maintenance dashboard for EV telemetry with Gemini-powered health scoring, root-cause diagnosis and a rule-based fallback.
+### 🌌 SatQuery
+Natural-language search and Q&A over satellite imagery. FastAPI backend and Leaflet map over a 90-image geotagged dataset, using the ISRO Bhoonidhi API and Gemini vision. Deployed on Vercel.
 
-`React 19` `TypeScript` `Gemini API`
+`FastAPI` `Leaflet` `Gemini` `Pydantic`
 
-[🔗 Live Demo](https://ev-guardian-h0dk5vfut-nova-minds1.vercel.app) · [📦 Code](https://github.com/Samdcruzzz/EV-Guardian)
+[📦 Code](https://github.com/Samdcruzzz/SatQuery)
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 RF Direction Finder
+Capstone project: ML-based direction-of-arrival estimation for a multi-antenna RF beacon locator, compared against a MUSIC baseline.
+
+`DOA Estimation` `MUSIC` `MLP` `RF`
+
+![Status](https://img.shields.io/badge/Status-In_Progress-F59E0B?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ♻️ Paper Sage
+Automated paper sorter on an Arduino Uno with colour, IR, moisture and ultrasonic sensors, classifying recyclable and non-recyclable paper at **90% accuracy**.
+
+**🥇 National Hackathon 360° 3.0 Winner**
+
+[📦 Code](https://github.com/Samdcruzzz/Paper-Sage)
 
 </td>
 <td width="50%" valign="top">
@@ -172,48 +112,23 @@ Predictive-maintenance dashboard for EV telemetry with Gemini-powered health sco
 ### 🧬 Continnum
 AI-orchestrated health memory platform for elderly care. Unifies fragmented records and flags polypharmacy, cognitive decline and consent risks.
 
-`Python` `AI Orchestration` `Health-Tech`
+`Python` `AI Orchestration`
 
 [📦 Code](https://github.com/Samdcruzzz/continnum)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌌 SatQuery
-Vision-language assistant for optical and SAR satellite imagery, with agentic routing to specialist models and auditable outputs.
-
-`Vision-Language Models` `Agentic Routing`
-
-![Fork](https://img.shields.io/badge/Extended_Fork-EC4899?style=flat-square)
-[📦 Code](https://github.com/Samdcruzzz/SatQuery)
-
-</td>
-<td width="50%" valign="top">
-
-### ♻️ Paper Sage
-Sensor-driven recyclable / non-recyclable paper sorter.
-
-**🥇 National Hackathon 360° 3.0 Winner**
-
-`Microcontroller` `Sensor Array` `Actuators`
-
-[📦 Code](https://github.com/Samdcruzzz/Paper-Sage)
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>🗂️ More projects</b></summary>
+<summary><b>More projects</b></summary>
 <br/>
 
-| Project | Description | Stack |
-|:--|:--|:--|
-| [**PingSense**](https://github.com/Samdcruzzz/PingSense-Orchestrate) | WhatsApp notification router with OCR, offline speech recognition and scam/prompt-injection filtering. **83.3% action accuracy.** | `Python` `pytesseract` `Anthropic API` |
-| **AllCollegeEvent** | Gamified campus event platform: discover fests, earn XP, build squads, AI-powered itineraries. | `TypeScript` |
-| [**Smart Light Control**](https://github.com/Samdcruzzz/Light-Intensity) | LDR + IR auto-brightness and motion-responsive lighting, deployed in a lab environment. | `Arduino` `Embedded C` `PWM` |
+| Project | Description |
+|:--|:--|
+| [**PingSense**](https://github.com/Samdcruzzz/PingSense-Orchestrate) | WhatsApp notification router with OCR, offline speech recognition and scam filtering. **83.3% action accuracy.** |
+| [**Smart Light Control**](https://github.com/Samdcruzzz/Light-Intensity) | LDR + IR auto-brightness and motion-responsive lighting, deployed in a lab environment. |
+| **AllCollegeEvent** | Gamified campus event platform with AI-powered itineraries. |
 
 </details>
 
@@ -221,34 +136,46 @@ Sensor-driven recyclable / non-recyclable paper sorter.
 
 ## 🏙️ Contribution Skyline
 
-<picture> <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg"> <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season.svg"> <img alt="profile-3d" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"> </picture> <div align="center"> <sub>Each tower is a day of commits, PRs and issues: taller means busier.</sub> </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season.svg">
+  <img alt="profile-3d" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+</picture>
 
+<div align="center">
+<sub>Each tower is a day of commits, PRs and issues: taller means busier.</sub>
+</div>
 
-## 🏆 Recognition
+## 🏆 Achievements
 
-| | Award | Event |
+| Year | Award | Event |
 |:--:|:--|:--|
-| 🥇 | **Winner, Best Innovators** | National Level Hackathon 360° 3.0, KPR Institute of Engineering & Technology |
-| 🥈 | **2nd Place** | Project Expo, Velammal Engineering College |
-| 🥉 | **3rd Prize** | Shark Tank Innovation Challenge, Madras Institute of Technology |
-| 🥉 | **3rd Place** | Paper Presentation, St. Joseph College of Engineering |
+| 2026 | 🥇 **Winner, Best Innovators** | National Level Hackathon 360° 3.0, KPR Institute of Engineering & Technology |
+| 2025 | 🥈 **2nd Place** | Project Expo, Velammal Institute of Technology |
+| 2026 | ✦ **Special Mention** | Project Expo, Sri Ramakrishna Engineering College |
+| 2026 | 🥉 **3rd Place** | Paper Presentation, St. Joseph College of Engineering |
+| 2026 | 🥉 **3rd Prize** | Shark Tank Challenge, Madras Institute of Technology |
+| 2026 | 🥉 **3rd Prize** | Innovative Product, Velammal Engineering College |
+
+**🏑 Hockey, Anna University Zonal Level:** 🥇 1st (2023) · 🥉 3rd (2024) · 🥈 2nd (2025) · 🥇 1st (2026)
 
 ## 🎓 Education & Certifications
 
 **B.E. Electronics & Communication Engineering** · Velammal Engineering College · 2023 – 2027
 
-- Advance Diploma in Python Programming, CSC
-- Cryptography & Network Security, NPTEL
-- Orchestrate: Built & Deployed an AI Agent, HackerRank
-- The Future of Full Stack Development, GUVI × HCL
+- **CSC:** Advanced Diploma in Python (2023)
+- **NPTEL:** Cryptography and Network Security (2026)
+- **NPTEL:** Cloud Computing (2026)
+- **HCL GUVI:** Full Stack Development (2026)
+- **HackerRank:** Orchestrate, Built & Deployed an AI Agent (2026)
 
 ---
 
 <div align="center">
 
-## 💬 Let's Build Something
+## 💬 Let's Connect
 
-*Open to embedded, firmware and robotics opportunities.*
+*Open to embedded systems and software engineering roles.*
 
 <sub><a href="https://samueljoshua.netlify.app/"><code>samueljoshua.netlify.app</code></a> · <a href="https://www.linkedin.com/in/samuel-joshua-j-5491a72a9/"><code>LinkedIn</code></a> · <a href="mailto:ktmsjsam@gmail.com"><code>ktmsjsam@gmail.com</code></a></sub>
 
