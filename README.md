@@ -183,12 +183,20 @@ AI-orchestrated health memory platform for elderly care. Unifies fragmented reco
 
 ## 💬 Let's Connect
 
-*Open to embedded systems and software engineering roles.*
-
-<sub><a href="https://samueljoshua.netlify.app/"><code>samueljoshua.netlify.app</code></a> · <a href="https://www.linkedin.com/in/samuel-joshua-j-5491a72a9/"><code>LinkedIn</code></a> · <a href="mailto:ktmsjsam@gmail.com"><code>ktmsjsam@gmail.com</code></a></sub>
+Open to **embedded systems** and **software engineering** roles.<br/>
+The fastest way to reach me is email.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
+<a href="mailto:ktmsjsam@gmail.com"><img height="38" src="https://img.shields.io/badge/EMAIL-ktmsjsam@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" alt="Email"/></a>
+<br/>
+<a href="https://www.linkedin.com/in/samuel-joshua-j-5491a72a9/"><img height="34" src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" alt="LinkedIn"/></a>
+<a href="https://samueljoshua.netlify.app/"><img height="34" src="https://img.shields.io/badge/PORTFOLIO-VIEW_SITE-F43F5E?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0F172A" alt="Portfolio"/></a>
+
+<br/><br/>
+
+<sub>Thanks for stopping by. ⭐ A star on a project is always appreciated.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:F43F5E&height=110&section=footer" width="100%" alt=""/>
 
 </div>
