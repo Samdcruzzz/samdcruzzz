@@ -4,9 +4,9 @@
 
 <p>Final-Year ECE (2027) · Chennai, India · National Hackathon 360° 3.0 Winner</p>
 
-<a href="https://samueljoshua.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-F43F5E?style=for-the-badge&logo=netlify&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/samuel-joshua-j-5491a72a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:ktmsjsam@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://samueljoshua.netlify.app/"><img height="34" src="https://img.shields.io/badge/PORTFOLIO-VIEW_SITE-F43F5E?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0F172A" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/samuel-joshua-j-5491a72a9/"><img height="34" src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" alt="LinkedIn"/></a>
+<a href="mailto:ktmsjsam@gmail.com"><img height="34" src="https://img.shields.io/badge/EMAIL-CONTACT_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" alt="Email"/></a>
 
 </div>
 
@@ -145,6 +145,14 @@ AI-orchestrated health memory platform for elderly care. Unifies fragmented reco
 <div align="center">
 <sub>Each tower is a day of commits, PRs and issues: taller means busier.</sub>
 </div>
+
+## 🎮 Contribution Game
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samdcruzzz/Samdcruzzz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Samdcruzzz/Samdcruzzz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Samdcruzzz/Samdcruzzz/output/pacman-contribution-graph.svg" width="100%">
+</picture>
 
 ## 🏆 Achievements
 
